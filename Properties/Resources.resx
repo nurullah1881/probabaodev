@@ -127,4 +127,19 @@
   <data name="Ataturk_I_Inonu_Savasi'nda" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resimler\Ataturk_I_Inonu_Savasi'nda.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="IIinonu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resimler\IIinonu.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eskisehir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resimler\eskisehir.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_2_inonu_savasi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resimler\2.inonu-savasi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Battle_of_Sakarya_1921" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resimler\Battle_of_Sakarya_1921.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Commanders_of_the_Turkish_War_of_Independence" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resimler\Commanders_of_the_Turkish_War_of_Independence.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

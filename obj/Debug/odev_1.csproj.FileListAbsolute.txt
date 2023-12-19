@@ -8,3 +8,13 @@ C:\Users\vlader\source\repos\odev_1\obj\Debug\odev_1.csproj.GenerateResource.cac
 C:\Users\vlader\source\repos\odev_1\obj\Debug\odev_1.csproj.CoreCompileInputs.cache
 C:\Users\vlader\source\repos\odev_1\obj\Debug\odev_1.exe
 C:\Users\vlader\source\repos\odev_1\obj\Debug\odev_1.pdb
+C:\Users\user\Desktop\probabaodev-main\bin\Debug\odev_1.exe.config
+C:\Users\user\Desktop\probabaodev-main\bin\Debug\odev_1.exe
+C:\Users\user\Desktop\probabaodev-main\bin\Debug\odev_1.pdb
+C:\Users\user\Desktop\probabaodev-main\obj\Debug\odev_1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\probabaodev-main\obj\Debug\odev_1.Form1.resources
+C:\Users\user\Desktop\probabaodev-main\obj\Debug\odev_1.Properties.Resources.resources
+C:\Users\user\Desktop\probabaodev-main\obj\Debug\odev_1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\probabaodev-main\obj\Debug\odev_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\probabaodev-main\obj\Debug\odev_1.exe
+C:\Users\user\Desktop\probabaodev-main\obj\Debug\odev_1.pdb

@@ -117,54 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="label7.Text" xml:space="preserve">
-    <value>   I. İnönü Muharebesi, 6 Ocak 1921 tarihinde iki koldan taarruza geçen Yunan kuvvetleriyle İnönü mevzilerinde savunmada olan Ankara Hükümeti 
-kuvvetleri arasında yapılan muharebedir. 6 Ocak 1921 tarihine kadar Uşak ve Bursa bölgesinde hazırlıklarını sürdüren Yunanlar,
-Türk-Batı Cephesi birliklerinin Çerkez Ethem Kuvvetlerinin Tenkili harekâtı ile meşgul olmasından da faydalanarak, İnönü-Eskişehir istikametinde 
-taarruza başladılar. 6-9 Ocak 1921 tarihleri arasındaki muharebeler, örtme ve emniyet kuvvetleri harekâtı şeklinde cereyan etti. 
-İnönü mevzilerindeki muharebeler 10 Ocak 1921 tarihinde başlamış, Yunan kuvvetlerinin taarruz çıkış hatlarına çekildiği 11 Ocak 1921
-tarihine kadar sürmüştür.</value>
-  </data>
-  <data name="label9.Text" xml:space="preserve">
-    <value>   Türk tarafı, her ne kadar sürekli geri çekilmiş olsa da, Yunan kuvvetlerinin Eskişehir yönünde ilerlemesini durdurmuş olduklarını ileri sürerek
-savaşı, kesin bir zafer olarak tanımlamaktadırlar. Yunan tarafı ise, harekâtın zaten sınırlı hedefli olduğu ve planlanan hedeflere ulaşıldığı 
-gerekçesiyle bunu reddetmektedirler. Bu tartışmalar günümüzde de sürmektedir.</value>
-  </data>
-  <data name="label10.Text" xml:space="preserve">
-    <value>   Savaşı, Türk tarafının zaferi olarak değerlendiren çevrelerde ileri sürülenlerin görüşler temelde, 
-Türk tarafının belirli bir miktar malzeme kaybetmesine, bölgedeki demiryollarının imha edilmiş olmasına karşın, 
-toprak kaybetmediği olgusuna dayanmaktadır. Yunan kuvvetlerinin geri çekilmesinin ise, plan ne olursa olsun,
-gerek Türk, gerek dünya ve gerekse de Yunan kamuoyunda, Yunan kuvvetlerinin zaferi olarak algılanmadığı ileri sürülmektedir. 
-Çünkü, savaş sonrasında, kazanan tarafın, karşı tarafa iradesini kabul ettirdiği bir antlaşma yoktu.</value>
-  </data>
-  <data name="label13.Text" xml:space="preserve">
-    <value>   Yunan birlikleri muharebenin ilk dört gününde çok başarılı olarak 24 Mart'ta Dumlupınar'ı, 27 Mart'ta da Afyon'u ele geçirdiler. 
-Eskişehir yönünde gelişen Yunan saldırısı ise Birinci İnönü Muharebesi'nde takip edilen yoldan ilerlemekteydi.
-İnönü mevkiindeki çatışmalar 27 Mart sabahı başladı. Yunan ordusunun ilk günlerde etkili taarruzlar yapması üzerine 
-bu sıkışık anda takviye olmak üzere TBMM'nde alınan karar doğrultusunda Meclis Muhafız Taburu ile birlikte 
-Millî Savunma Bakanı Fevzi Paşa cepheye gitti. Mevzilerin savunulmasında hiç zaaf göstermeyen
-ve emirlerinde son derece kesin davranan Cephe Komutanı İsmet Paşa'nın başarılı karşı taarruz emriyle düşman güçleri 
-geri çekilmek zorunda kaldılar. 
-
-Yunan ordusu bu çekilişi sırasında Türk süvarilerinin ısrarlı takipleri sonucunda ağır kayıplar vermiştir. 
-Buna karşılık Yunan ordusunun güney cephesinde yaptığı taarruz gelişme göstermiş, 
-Afyonu işgal eden Yunan kuvvetleri Çay-Bolvadin hattına kadar ilerlemişlerdi. Ancak Yunan birlikleri 30 Mart'ta yaptıkları ikinci saldırıda da 
-geri püskürtülünce güneyde Afyon şehrinden çekilmek durumunda kaldılar. 
-
-Geri çekilen Yunan ordusuna Türk süvarileri tarafından Yenişehir ovasında kuvvetli bir darbe indirilmiştir. </value>
-  </data>
-  <data name="label14.Text" xml:space="preserve">
-    <value>   Mirliva (Tuğgeneral) İsmet Paşa komutasındaki birlikler, karargahı Eskişehir'de olmak üzere, güneyden kuzeye 11, 24 
-ve 61. Piyade Tümenleri birinci hatta; 3. Piyade Tümeni ve 1. Süvari Tugayı örtme görevini müteakip ihtiyatta olacak şekilde, 
-İnönü mevzilerinde savunma için tertiplendi.</value>
-  </data>
-  <data name="label16.Text" xml:space="preserve">
-    <value>   Birinci İnönü Muharebesi'nden kazanç sağlayamayan ve Türk kuvvetlerinin güçlenmesine imkân vermeden imhasını sağlamak; 
-Eskişehir ve Afyon stratejik bölgesini ele geçirmek, Sevr Antlaşması hükümlerini zorla Millî Hükümete kabul ettirmek maksadıyla 
-23 Mart 1921 günü ileri harekata geçen Bursa bölgesine çekilen 3. Yunan Kolordusu ve Uşak bölgesinde bulunan
-1. Yunan Kolordusu Londra Konferansı'na gitmek için hazırlanan Türk temsilcileri daha yoldayken, tüm barış kapılarını kapayıp, 
-biri Afyonkarahisar diğeri Eskişehir istikametinde iki koldan saldırıyı başlattılar.</value>
-  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>

@@ -63,9 +63,59 @@ namespace odev_1.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap _2_inonu_savasi {
+            get {
+                object obj = ResourceManager.GetObject("_2_inonu_savasi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap Ataturk_I_Inonu_Savasi_nda {
             get {
                 object obj = ResourceManager.GetObject("Ataturk_I_Inonu_Savasi\'nda", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap Battle_of_Sakarya_1921 {
+            get {
+                object obj = ResourceManager.GetObject("Battle_of_Sakarya_1921", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap Commanders_of_the_Turkish_War_of_Independence {
+            get {
+                object obj = ResourceManager.GetObject("Commanders_of_the_Turkish_War_of_Independence", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap eskisehir {
+            get {
+                object obj = ResourceManager.GetObject("eskisehir", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap IIinonu {
+            get {
+                object obj = ResourceManager.GetObject("IIinonu", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

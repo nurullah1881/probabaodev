@@ -89,5 +89,20 @@
   <ItemGroup>
     <None Include="Resimler\Ataturk_I_Inonu_Savasi%27nda.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resimler\IIinonu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resimler\eskisehir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resimler\2.inonu-savasi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resimler\Battle_of_Sakarya_1921.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resimler\Commanders_of_the_Turkish_War_of_Independence.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
